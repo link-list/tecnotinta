@@ -1,0 +1,116 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #0073e6;
+    color: #fff;
+    text-align: center;
+    padding: 50px 20px;
+    position: relative;
+}
+
+.hero .logo {
+    width: 200px;
+    margin-top: 20px;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+.hero p {
+    font-size: 1.2em;
+}
+
+/* Información Section */
+.info {
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.info h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* Productos Section */
+.productos {
+    padding: 20px;
+    text-align: center;
+    background-color: #eaeaea;
+}
+
+.productos h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.producto {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #fff;
+    display: inline-block;
+    text-align: center;
+    width: 280px;
+    border-radius: 8px;
+}
+
+.producto-imagen {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.producto h3 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.producto p {
+    margin: 5px 0;
+}
+
+/* Footer de Contacto */
+.contacto {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.contacto h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.contacto p {
+    margin: 5px 0;
+}
+
+.linea {
+    border-top: 1px solid #fff;
+    margin: 10px 0;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contacto img {
+    width: 20px;
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+    margin-bottom: -2px;
+    background-color: transparent;
+}
